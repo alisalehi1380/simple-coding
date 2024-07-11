@@ -1,0 +1,3 @@
+// use service container for inject each service dependencies => like peyment service, Invoice service or smth.
+
+// https://laravel.com/docs/11.x/container
